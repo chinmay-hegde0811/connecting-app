@@ -1,6 +1,4 @@
 deployAs:
-  - name: enabler
-    applicationType: assets
   - name: processor
     applicationType: service
     endpoint: /
